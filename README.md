@@ -1,4 +1,4 @@
-# Calculadora-de-salario
+
 
 ## Calculadora de Salário
 Este é um aplicativo de calculadora de salário desenvolvido em PHP e HTML, projetado para calcular o salário final de um(a) vendedor(a) com base nas novas regras do Piso Regional do Paraná. A seguir, uma descrição mais detalhada e precisa de suas funcionalidades:
